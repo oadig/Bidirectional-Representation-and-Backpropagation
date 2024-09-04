@@ -7,3 +7,6 @@ TensorFlow Implementation of  Bidirectional Representation and Backpropagation L
 - [ ] 2 cases of bipolar permutation function
 - [ ] 2 cases of binary permutation function
 - [ ] Bidirectional network with one hidden layer
+
+# References
+#
