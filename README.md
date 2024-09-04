@@ -4,9 +4,9 @@ TensorFlow Implementation of  Bidirectional Representation and Backpropagation L
 
 ## Features
 
-- [ ] 2 cases of bipolar permutation function
-- [ ] 2 cases of binary permutation function
-- [ ] Bidirectional network with one hidden layer
+- [ ] Training a network on binary and bipolar permutation functions.
+- [ ] The training can be forward only, backward only, or bidirectional.
+- [ ] The network uses a single hidden layer.
 
 # References
 #
