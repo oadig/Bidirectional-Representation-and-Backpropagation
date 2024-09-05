@@ -11,3 +11,5 @@ TensorFlow Implementation of  Bidirectional Representation and Backpropagation L
 # References
 #
 <a id="1">[1]</a> Adigun, O. and Kosko, B., 2016. Bidirectional representation and backpropagation learning. In International joint conference on advances in big data analytics (pp. 3-9).
+
+<a id="1">[2]</a> Adigun, O. and Kosko, B., 2019. Bidirectional backpropagation. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 50(5), pp.1982-1994.
